@@ -5,9 +5,6 @@ export default (props) => (
 
     <div className={props.base}>
         <Container1/>
-        {
-            'Please exclude me!'
-        }
     </div>
 
 )
