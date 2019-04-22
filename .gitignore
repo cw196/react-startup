@@ -2,3 +2,4 @@ dict/
 node_modules/
 .idea
 package-lock.json
+yarn.lock
