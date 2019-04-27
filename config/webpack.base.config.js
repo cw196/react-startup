@@ -5,13 +5,11 @@ const webpack = require('webpack');
 var HtmlWebpackPlugin = require('html-webpack-plugin');
 const merge = require("webpack-merge");
 
-const APP_DIR = path.resolve(__dirname, '../src');
-
 module.exports = env => {
 
     return merge ([
         {
-            entry: ['@babel/polyfill', APP_DIR],
+            entry: "src/index.tsx",
             module: {
                 rules: [
                     {
@@ -21,8 +19,14 @@ module.exports = env => {
                             loader: 'babel-loader'
                         }
                     },
+                    {
+                        test: /\.tsx?$/,
+                        loader: "ts-loader",
+                        exclude: /node_modules/
+                    }
                 ]
             },
+            devtool: "source-map",
             plugins: [
                 new HtmlWebpackPlugin({
                     filename: './index.html',
@@ -36,7 +40,8 @@ module.exports = env => {
             resolve: {
                 alias: {
                     src: path.resolve(__dirname, '../src/')
-                }
+                },
+                extensions: [ '.tsx', '.ts', '.js' ]
             },
         }
     ])
