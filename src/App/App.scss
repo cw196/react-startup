@@ -1,0 +1,62 @@
+body {
+    background-color: #f5f5f5;
+}
+.App {
+    .results {
+        background-color: #076b9c;
+        .banner {
+            padding: 16px;
+            .input {
+                padding: 10px;
+                .description {
+                    width: 100px;
+                }
+                input {
+                    width: 100px;
+                }
+            }
+            .dropdown {
+                height: 38px;
+                display: inline-flex;
+                padding: 11px;
+                margin-bottom: 20px;
+            }
+        }
+    }
+    .lists {
+        .list {
+            margin-top: 2rem;
+            .title {
+                font-weight: bold;
+            }
+            img {
+                padding: 10px;
+            }
+            .summary {
+                margin-top: 10%;
+                text-align: center;
+                font-weight: bold;
+                .value {
+                    font-size: 24px;
+                    padding-right: 4px;
+                }
+                .des {
+                    .dropdown {
+                        margin-right: 2px;
+                    }
+                    font-size: 12px;
+                    color: #076b9c;
+                }
+            }
+            .promotion {
+                padding: 20px;
+                background-color: rgba(119,170,67,.15);
+            }
+        }
+    }
+    .pagination {
+        margin: 25px;
+        text-align: center;
+    }
+}
+

@@ -1,0 +1,895 @@
+[
+    {
+        "name": "Bank of China",
+        "min": 2.55,
+        "minType": "Special-(1 Years)",
+        "rates": [
+            {
+                "name": "Special-(1 Years)",
+                "rate": 2.55
+            },
+            {
+                "name": "Special-(2 Years)",
+                "rate": 2.65
+            },
+            {
+                "name": "Special-(18 Months)",
+                "rate": 2.65
+            },
+            {
+                "name": "Special-(3 Years)",
+                "rate": 2.75
+            },
+            {
+                "name": "Special-(4 Years)",
+                "rate": 2.85
+            },
+            {
+                "name": "Special-(5 Years)",
+                "rate": 2.95
+            },
+            {
+                "name": "Special-(6 Months)",
+                "rate": 3.45
+            },
+            {
+                "name": "Special-(floating)",
+                "rate": 4.35
+            },
+            {
+                "name": "Standard-(floating)",
+                "rate": 5
+            },
+            {
+                "name": "Standard-(6 Months)",
+                "rate": 5.15
+            },
+            {
+                "name": "Standard-(1 Years)",
+                "rate": 5.25
+            },
+            {
+                "name": "Standard-(2 Years)",
+                "rate": 5.35
+            },
+            {
+                "name": "Standard-(3 Years)",
+                "rate": 5.5
+            },
+            {
+                "name": "Standard-(4 Years)",
+                "rate": 5.7
+            },
+            {
+                "name": "Standard-(5 Years)",
+                "rate": 5.99
+            }
+        ],
+        "logo": "http://logok.org/wp-content/uploads/2014/04/Bank-of-China-Coin-logo-1024x768.png",
+        "link": "https://www.bankofchina.com/nz/en/bocinfo/bi3/"
+    },
+    {
+        "name": "ICBC ",
+        "min": 2.58,
+        "minType": "Special-(1 Years)",
+        "rates": [
+            {
+                "name": "Special-(1 Years)",
+                "rate": 2.58
+            },
+            {
+                "name": "Special-(2 Years)",
+                "rate": 2.68
+            },
+            {
+                "name": "Special-(3 Years)",
+                "rate": 2.79
+            },
+            {
+                "name": "Special-(18 Months)",
+                "rate": 2.79
+            },
+            {
+                "name": "Special-(6 Months)",
+                "rate": 2.95
+            },
+            {
+                "name": "Special-(4 Years)",
+                "rate": 2.99
+            },
+            {
+                "name": "Special-(5 Years)",
+                "rate": 3.45
+            },
+            {
+                "name": "Special-(floating)",
+                "rate": 3.99
+            },
+            {
+                "name": "Standard-(1 Years)",
+                "rate": 4.49
+            },
+            {
+                "name": "Standard-(2 Years)",
+                "rate": 4.69
+            },
+            {
+                "name": "Standard-(3 Years)",
+                "rate": 4.99
+            },
+            {
+                "name": "Standard-(6 Months)",
+                "rate": 5.35
+            },
+            {
+                "name": "Standard-(4 Years)",
+                "rate": 5.45
+            },
+            {
+                "name": "Standard-(5 Years)",
+                "rate": 5.49
+            },
+            {
+                "name": "Standard-(floating)",
+                "rate": 5.79
+            }
+        ]
+    },
+    {
+        "name": "HSBC",
+        "min": 2.6,
+        "minType": "Premier-(1 Years)",
+        "rates": [
+            {
+                "name": "Premier-(1 Years)",
+                "rate": 2.6
+            },
+            {
+                "name": "Premier-(2 Years)",
+                "rate": 2.65
+            },
+            {
+                "name": "Premier-(18 Months)",
+                "rate": 2.65
+            },
+            {
+                "name": "Premier-(3 Years)",
+                "rate": 2.8
+            },
+            {
+                "name": "Premier-(4 Years)",
+                "rate": 2.89
+            },
+            {
+                "name": "Premier-(6 Months)",
+                "rate": 2.95
+            },
+            {
+                "name": "Premier-(5 Years)",
+                "rate": 2.99
+            },
+            {
+                "name": "Premier-(floating)",
+                "rate": 4.49
+            }
+        ],
+        "logo": "https://1000logos.net/wp-content/uploads/2017/02/HSBC-Logo-768x511.png",
+        "link": "https://www.hsbc.co.nz/mortgages/products/fixed-rate/"
+    },
+    {
+        "name": "ANZ",
+        "min": 2.65,
+        "minType": "Special LVR-(1 Years)",
+        "rates": [
+            {
+                "name": "Special LVR-(1 Years)",
+                "rate": 2.65
+            },
+            {
+                "name": "Special LVR-(2 Years)",
+                "rate": 2.75
+            },
+            {
+                "name": "Special LVR-(18 Months)",
+                "rate": 3.05
+            },
+            {
+                "name": "Standard-(1 Years)",
+                "rate": 3.15
+            },
+            {
+                "name": "Standard-(2 Years)",
+                "rate": 3.25
+            },
+            {
+                "name": "Special LVR-(3 Years)",
+                "rate": 3.35
+            },
+            {
+                "name": "Standard-(18 Months)",
+                "rate": 3.55
+            },
+            {
+                "name": "Special LVR-(6 Months)",
+                "rate": 3.65
+            },
+            {
+                "name": "Standard-(3 Years)",
+                "rate": 3.85
+            },
+            {
+                "name": "Standard-(6 Months)",
+                "rate": 4.15
+            },
+            {
+                "name": "Standard-(4 Years)",
+                "rate": 4.15
+            },
+            {
+                "name": "Standard-(5 Years)",
+                "rate": 4.25
+            },
+            {
+                "name": "Standard-(floating)",
+                "rate": 4.44
+            }
+        ],
+        "logo": "https://logosvector.net/wp-content/uploads/2013/07/anz-vector-logo.png",
+        "link": "https://www.anz.co.nz/personal/home-loans-mortgages/"
+    },
+    {
+        "name": "ASB",
+        "min": 2.65,
+        "minType": "Special LVR-(18 Months)",
+        "rates": [
+            {
+                "name": "Special LVR-(18 Months)",
+                "rate": 2.65
+            },
+            {
+                "name": "Special LVR-(1 Years)",
+                "rate": 2.69
+            },
+            {
+                "name": "Special LVR-(2 Years)",
+                "rate": 2.69
+            },
+            {
+                "name": "Special LVR-(3 Years)",
+                "rate": 2.99
+            },
+            {
+                "name": "Special LVR-(4 Years)",
+                "rate": 3.09
+            },
+            {
+                "name": "Residential-(18 Months)",
+                "rate": 3.15
+            },
+            {
+                "name": "Residential-(1 Years)",
+                "rate": 3.19
+            },
+            {
+                "name": "Residential-(2 Years)",
+                "rate": 3.19
+            },
+            {
+                "name": "Special LVR-(5 Years)",
+                "rate": 3.19
+            },
+            {
+                "name": "Residential-(3 Years)",
+                "rate": 3.49
+            },
+            {
+                "name": "Special LVR-(6 Months)",
+                "rate": 3.55
+            },
+            {
+                "name": "Residential-(4 Years)",
+                "rate": 3.59
+            },
+            {
+                "name": "Residential-(5 Years)",
+                "rate": 3.69
+            },
+            {
+                "name": "Residential-(6 Months)",
+                "rate": 4.05
+            },
+            {
+                "name": "Residential-(floating)",
+                "rate": 4.45
+            }
+        ],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/ASB_Logo_2013.svg/1600px-ASB_Logo_2013.svg.png",
+        "link": "https://www.asb.co.nz/home-loans-mortgages"
+    },
+    {
+        "name": "BNZ",
+        "min": 2.65,
+        "minType": "Special - Classic-(1 Years)",
+        "rates": [
+            {
+                "name": "Special - Classic-(1 Years)",
+                "rate": 2.65
+            },
+            {
+                "name": "Special - Classic-(2 Years)",
+                "rate": 2.69
+            },
+            {
+                "name": "Special - Classic-(18 Months)",
+                "rate": 2.69
+            },
+            {
+                "name": "Special - Classic-(3 Years)",
+                "rate": 2.99
+            },
+            {
+                "name": "Special - Classic-(4 Years)",
+                "rate": 2.99
+            },
+            {
+                "name": "Special - Classic-(5 Years)",
+                "rate": 2.99
+            },
+            {
+                "name": "Standard & Fly Buys-(1 Years)",
+                "rate": 3.25
+            },
+            {
+                "name": "Standard & Fly Buys-(2 Years)",
+                "rate": 3.29
+            },
+            {
+                "name": "Standard & Fly Buys-(18 Months)",
+                "rate": 3.29
+            },
+            {
+                "name": "Standard & Fly Buys-(3 Years)",
+                "rate": 3.59
+            },
+            {
+                "name": "Standard & Fly Buys-(4 Years)",
+                "rate": 3.59
+            },
+            {
+                "name": "Standard & Fly Buys-(5 Years)",
+                "rate": 3.59
+            },
+            {
+                "name": "Standard & Fly Buys-(6 Months)",
+                "rate": 4.29
+            },
+            {
+                "name": "TotalMoney-(floating)",
+                "rate": 4.55
+            },
+            {
+                "name": "Standard & Fly Buys-(floating)",
+                "rate": 4.55
+            },
+            {
+                "name": "Standard & Fly Buys-(7 Years)",
+                "rate": 5.2
+            }
+        ],
+        "logo": "https://resources.stuff.co.nz/content/dam/images/1/c/d/i/1/v/image.related.StuffLandscapeSixteenByNine.1420x800.1exwux.png/1476941479699.jpg",
+        "link": "https://www.bnz.co.nz/personal-banking/home-loans"
+    },
+    {
+        "name": "China Construction Bank",
+        "min": 2.65,
+        "minType": "Special-(1 Years)",
+        "rates": [
+            {
+                "name": "Special-(1 Years)",
+                "rate": 2.65
+            },
+            {
+                "name": "Special-(2 Years)",
+                "rate": 2.65
+            },
+            {
+                "name": "Special-(18 Months)",
+                "rate": 2.65
+            },
+            {
+                "name": "Special-(3 Years)",
+                "rate": 2.8
+            },
+            {
+                "name": "Special-(4 Years)",
+                "rate": 2.89
+            },
+            {
+                "name": "Special-(5 Years)",
+                "rate": 2.99
+            },
+            {
+                "name": "Standard-(6 Months)",
+                "rate": 4.7
+            },
+            {
+                "name": "Standard-(1 Years)",
+                "rate": 4.7
+            },
+            {
+                "name": "Standard-(2 Years)",
+                "rate": 4.8
+            },
+            {
+                "name": "Standard-(3 Years)",
+                "rate": 4.95
+            },
+            {
+                "name": "Standard-(4 Years)",
+                "rate": 4.95
+            },
+            {
+                "name": "Standard-(5 Years)",
+                "rate": 4.95
+            },
+            {
+                "name": "Standard-(floating)",
+                "rate": 5
+            }
+        ],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/China_Construction_Bank_logo.svg/292px-China_Construction_Bank_logo.svg.png",
+        "link": "http://nz.ccb.com/newzealand/en/service/262546.html"
+    },
+    {
+        "name": "Kiwibank",
+        "min": 2.65,
+        "minType": "Special-(1 Years)",
+        "rates": [
+            {
+                "name": "Special-(1 Years)",
+                "rate": 2.65
+            },
+            {
+                "name": "Special-(2 Years)",
+                "rate": 2.79
+            },
+            {
+                "name": "Special-(3 Years)",
+                "rate": 3.25
+            },
+            {
+                "name": "Standard-(floating)",
+                "rate": 3.4
+            },
+            {
+                "name": "Standard-(1 Years)",
+                "rate": 3.4
+            },
+            {
+                "name": "Offset Mortgage-(floating)",
+                "rate": 3.4
+            },
+            {
+                "name": "Special-(4 Years)",
+                "rate": 3.45
+            },
+            {
+                "name": "Standard-(2 Years)",
+                "rate": 3.54
+            },
+            {
+                "name": "Special-(6 Months)",
+                "rate": 3.55
+            },
+            {
+                "name": "Special-(5 Years)",
+                "rate": 3.55
+            },
+            {
+                "name": "Standard-(3 Years)",
+                "rate": 4
+            },
+            {
+                "name": "Standard-(4 Years)",
+                "rate": 4.2
+            },
+            {
+                "name": "Standard-(6 Months)",
+                "rate": 4.3
+            },
+            {
+                "name": "Standard-(5 Years)",
+                "rate": 4.3
+            }
+        ],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kiwibank_Logo_updated.svg/1600px-Kiwibank_Logo_updated.svg.png",
+        "link": "https://www.kiwibank.co.nz/personal-banking/home-loans/"
+    },
+    {
+        "name": "TSB Bank",
+        "min": 2.65,
+        "minType": "Price match promise-(1 Years)",
+        "rates": [
+            {
+                "name": "Price match promise-(1 Years)",
+                "rate": 2.65
+            },
+            {
+                "name": "Price match promise-(18 Months)",
+                "rate": 2.65
+            },
+            {
+                "name": "Special LVR-(2 Years)",
+                "rate": 2.69
+            },
+            {
+                "name": "Price match promise-(2 Years)",
+                "rate": 2.69
+            },
+            {
+                "name": "Special LVR-(1 Years)",
+                "rate": 2.79
+            },
+            {
+                "name": "Price match promise-(3 Years)",
+                "rate": 2.79
+            },
+            {
+                "name": "Special LVR-(3 Years)",
+                "rate": 2.99
+            },
+            {
+                "name": "Special LVR-(18 Months)",
+                "rate": 2.99
+            },
+            {
+                "name": "Price match promise-(4 Years)",
+                "rate": 2.99
+            },
+            {
+                "name": "Price match promise-(5 Years)",
+                "rate": 2.99
+            },
+            {
+                "name": "Special LVR-(4 Years)",
+                "rate": 3.19
+            },
+            {
+                "name": "Special LVR-(5 Years)",
+                "rate": 3.19
+            },
+            {
+                "name": "Special LVR-(6 Months)",
+                "rate": 3.39
+            },
+            {
+                "name": "Standard-(2 Years)",
+                "rate": 3.49
+            },
+            {
+                "name": "Standard-(1 Years)",
+                "rate": 3.59
+            },
+            {
+                "name": "Standard-(3 Years)",
+                "rate": 3.79
+            },
+            {
+                "name": "Standard-(18 Months)",
+                "rate": 3.79
+            },
+            {
+                "name": "Standard-(4 Years)",
+                "rate": 3.99
+            },
+            {
+                "name": "Standard-(5 Years)",
+                "rate": 3.99
+            },
+            {
+                "name": "Standard-(6 Months)",
+                "rate": 4.19
+            },
+            {
+                "name": "Special LVR-(floating)",
+                "rate": 4.54
+            },
+            {
+                "name": "Standard-(floating)",
+                "rate": 5.34
+            }
+        ],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/TSB_%28New_Zealand%29_logo.svg/336px-TSB_%28New_Zealand%29_logo.svg.png",
+        "link": "https://www.tsb.co.nz/loans/home-loans-mortgages/rates"
+    },
+    {
+        "name": "Westpac",
+        "min": 2.65,
+        "minType": "Special LVR-(1 Years)",
+        "rates": [
+            {
+                "name": "Special LVR-(1 Years)",
+                "rate": 2.65
+            },
+            {
+                "name": "Special LVR-(2 Years)",
+                "rate": 2.69
+            },
+            {
+                "name": "Special LVR-(3 Years)",
+                "rate": 2.79
+            },
+            {
+                "name": "Special LVR-(4 Years)",
+                "rate": 2.99
+            },
+            {
+                "name": "Special LVR-(5 Years)",
+                "rate": 2.99
+            },
+            {
+                "name": "Standard-(2 Years)",
+                "rate": 4.09
+            },
+            {
+                "name": "Standard-(1 Years)",
+                "rate": 4.15
+            },
+            {
+                "name": "Standard-(18 Months)",
+                "rate": 4.25
+            },
+            {
+                "name": "Standard-(3 Years)",
+                "rate": 4.49
+            },
+            {
+                "name": "Standard-(floating)",
+                "rate": 4.59
+            },
+            {
+                "name": "Choices Offset-(floating)",
+                "rate": 4.59
+            },
+            {
+                "name": "Choices Everyday-(floating)",
+                "rate": 4.69
+            },
+            {
+                "name": "Standard-(6 Months)",
+                "rate": 4.79
+            },
+            {
+                "name": "Standard-(4 Years)",
+                "rate": 4.85
+            },
+            {
+                "name": "Standard-(5 Years)",
+                "rate": 4.95
+            }
+        ],
+        "logo": "https://1000logos.net/wp-content/uploads/2019/07/Westpac-Logo.png",
+        "link": "https://www.westpac.co.nz/home-loans/interest-rates/"
+    },
+    {
+        "name": "SBS Bank",
+        "min": 2.69,
+        "minType": "Special-(2 Years)",
+        "rates": [
+            {
+                "name": "Special-(2 Years)",
+                "rate": 2.69
+            },
+            {
+                "name": "Special-(1 Years)",
+                "rate": 2.79
+            },
+            {
+                "name": "Special-(18 Months)",
+                "rate": 2.79
+            },
+            {
+                "name": "Special-(3 Years)",
+                "rate": 2.99
+            },
+            {
+                "name": "Special-(4 Years)",
+                "rate": 3.09
+            },
+            {
+                "name": "Residential-(2 Years)",
+                "rate": 3.19
+            },
+            {
+                "name": "Special-(5 Years)",
+                "rate": 3.19
+            },
+            {
+                "name": "Residential-(1 Years)",
+                "rate": 3.29
+            },
+            {
+                "name": "Residential-(18 Months)",
+                "rate": 3.29
+            },
+            {
+                "name": "Special-(6 Months)",
+                "rate": 3.39
+            },
+            {
+                "name": "Residential-(3 Years)",
+                "rate": 3.49
+            },
+            {
+                "name": "Residential-(4 Years)",
+                "rate": 3.59
+            },
+            {
+                "name": "Residential-(5 Years)",
+                "rate": 3.69
+            },
+            {
+                "name": "Residential-(6 Months)",
+                "rate": 3.89
+            },
+            {
+                "name": "Residential-(floating)",
+                "rate": 4.54
+            },
+            {
+                "name": "Unwind reverse equity-(floating)",
+                "rate": 6.2
+            }
+        ],
+        "logo": "https://i.pinimg.com/originals/74/f0/8a/74f08a4eeb378dd59542dde220af2465.jpg",
+        "link": "https://www.sbsbank.co.nz/rates"
+    },
+    {
+        "name": "Co-operative Bank",
+        "min": 2.79,
+        "minType": "Owner Occupied-(6 Months)",
+        "rates": [
+            {
+                "name": "Owner Occupied-(6 Months)",
+                "rate": 2.79
+            },
+            {
+                "name": "Owner Occupied-(1 Years)",
+                "rate": 2.79
+            },
+            {
+                "name": "Owner Occupied-(2 Years)",
+                "rate": 2.79
+            },
+            {
+                "name": "Owner Occupied-(18 Months)",
+                "rate": 2.79
+            },
+            {
+                "name": "Standard-(6 Months)",
+                "rate": 3.29
+            },
+            {
+                "name": "Standard-(1 Years)",
+                "rate": 3.29
+            },
+            {
+                "name": "Standard-(2 Years)",
+                "rate": 3.29
+            },
+            {
+                "name": "Standard-(18 Months)",
+                "rate": 3.29
+            },
+            {
+                "name": "Owner Occupied-(3 Years)",
+                "rate": 3.39
+            },
+            {
+                "name": "Owner Occupied-(4 Years)",
+                "rate": 3.49
+            },
+            {
+                "name": "Owner Occupied-(5 Years)",
+                "rate": 3.59
+            },
+            {
+                "name": "Standard-(3 Years)",
+                "rate": 3.89
+            },
+            {
+                "name": "Standard-(4 Years)",
+                "rate": 3.99
+            },
+            {
+                "name": "Standard-(5 Years)",
+                "rate": 4.09
+            },
+            {
+                "name": "Owner Occupied-(floating)",
+                "rate": 4.4
+            },
+            {
+                "name": "Standard-(floating)",
+                "rate": 4.4
+            }
+        ],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/f/fc/The_Co-operative_Bank_%28New_Zealand%29_logo.svg",
+        "link": "https://www.co-operativebank.co.nz/borrowing/home-loans"
+    },
+    {
+        "name": "Heartland Bank",
+        "min": 2.89,
+        "minType": "Residential-(1 Years)",
+        "rates": [
+            {
+                "name": "Residential-(1 Years)",
+                "rate": 2.89
+            },
+            {
+                "name": "Residential-(2 Years)",
+                "rate": 2.97
+            },
+            {
+                "name": "Residential-(3 Years)",
+                "rate": 3.39
+            },
+            {
+                "name": "Residential-(floating)",
+                "rate": 3.95
+            },
+            {
+                "name": "Reverse Mortgage-(floating)",
+                "rate": 6.5
+            }
+        ],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heartland_Bank_NZ_Logo.png/800px-Heartland_Bank_NZ_Logo.png",
+        "link": "https://www.heartland.co.nz/home-loans/rates"
+    },
+    {
+        "name": "Bank of Baroda",
+        "min": 3.85,
+        "minType": "Standard-(1 Years)",
+        "rates": [
+            {
+                "name": "Standard-(1 Years)",
+                "rate": 3.85
+            },
+            {
+                "name": "Standard-(2 Years)",
+                "rate": 3.9
+            },
+            {
+                "name": "Standard-(floating)",
+                "rate": 5.25
+            }
+        ],
+        "logo": "https://www.barodanzltd.co.nz/wp-content/uploads/2018/08/logo.png",
+        "link": "https://www.barodanzltd.co.nz/home-loans/"
+    },
+    {
+        "name": "Kookmin",
+        "min": 4.3,
+        "minType": "Standard-(6 Months)",
+        "rates": [
+            {
+                "name": "Standard-(6 Months)",
+                "rate": 4.3
+            },
+            {
+                "name": "Standard-(1 Years)",
+                "rate": 4.3
+            },
+            {
+                "name": "Standard-(2 Years)",
+                "rate": 4.4
+            },
+            {
+                "name": "Standard-(floating)",
+                "rate": 5.2
+            }
+        ],
+        "logo": "https://en.wikipedia.org/wiki/File:KB_logo.svg",
+        "link": "https://global.kbstar.com/quics?page=C063488"
+    }
+]

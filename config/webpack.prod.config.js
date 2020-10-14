@@ -3,20 +3,21 @@ const path = require('path');
 const merge = require('webpack-merge');
 
 // Plugins
-const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
+const TerserPlugin = require('terser-webpack-plugin');
 
 const baseConfig = require('./webpack.base.config');
 
-const prodConfiguration = env => {
+const prodConfiguration = (env) => {
     return merge([
         {
             optimization: {
-                minimizer: [new UglifyJsPlugin()],
+                minimize: true,
+                minimizer: [new TerserPlugin()],
             },
         },
     ]);
 };
 
-module.exports = env => {
+module.exports = (env) => {
     return merge(baseConfig(env), prodConfiguration(env));
 };

@@ -9,6 +9,7 @@
     "paths": {
       "*": ["*"]
     },
+    "allowSyntheticDefaultImports": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "sourceMap": true,
