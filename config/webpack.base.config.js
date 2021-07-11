@@ -8,12 +8,16 @@ const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 const isProd = process.env.NODE_ENV === 'production';
 
-const merge = require('webpack-merge');
+const { merge } = require('webpack-merge');
 
 module.exports = (env) => {
     return merge([
         {
             entry: 'src/index.tsx',
+            output: {
+                path: path.join(__dirname, '/dist'),
+                filename: 'build.js',
+            },
             module: {
                 rules: [
                     {
